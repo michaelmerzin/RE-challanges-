@@ -1,7 +1,7 @@
 
 def main():
     username = input("enter you're username:\n")
-    password = password_getter('michael')
+    password = password_getter(username')
     print("you're password is : " + password)
 
 
