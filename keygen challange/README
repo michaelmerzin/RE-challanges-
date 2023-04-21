@@ -1,5 +1,5 @@
 today I solved a keygen CTF from the site "crackmes.one"
 here is the challange : https://crackmes.one/crackme/643ac6f133c5d439389128c9
 after I used reverse engineering tools to understand the program I wrote some python code to generate the password.
-The challange I faced in this CTF was a decompiler mistake , the keygen function of the decompiler code got a int argument (we can see it in  5.png) 
-but it accually got 2 strings , I passed this challange by watching the arguments in the debugger .
+The main challange I faced in this CTF was a decompiler mistake , the keygen function of the decompiler code got a int argument (we can see it in  4.png) 
+but it accually got 2 strings , I passed this challange by watching the arguments in the debugger and understand the code more deeply.
