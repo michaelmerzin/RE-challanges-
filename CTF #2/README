@@ -1,3 +1,6 @@
 today I solved another CTF of  VladMetz from crackmes.one
 https://crackmes.one/crackme/61f588f033c5d413767ca782
 I used IDA and x64dbg to understand the code and them wrote some python code to generate the password
+IMPORTANT:
+The complexity of the code is not the greatest, but I had to run the code only one time to get the
+password.
